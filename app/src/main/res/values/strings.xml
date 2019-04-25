@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">buttonCounter2</string>
+    <string name="reset">reset</string>
+    <string name="add">+</string>
+    <string name = "subtract">-</string>
+    <string name = "total">0</string>
+</resources>
